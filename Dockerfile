@@ -1,3 +1,3 @@
 FROM docker:stable
 
-RUN apk --update add openjdk8-jre
+RUN apk --update add openjdk8
